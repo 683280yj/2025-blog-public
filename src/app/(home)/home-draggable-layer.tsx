@@ -212,13 +212,18 @@ export function HomeDraggableLayer({ cardKey, x, y, width, height, children }: H
 	}
 
 	const canResize = editing && width !== undefined && height !== undefined
+	const scale = center.scale
+	const ex = Math.round(center.centerX + (x - center.centerX) * scale)
+	const ey = Math.round(center.centerY + (y - center.centerY) * scale)
+	const ew = Math.round((width ?? 0) * scale)
+	const eh = height !== undefined ? Math.round(height * scale) : undefined
 
 	return (
 		<>
 			{editing && (
 				<div
 					className='border-brand/70 bg-brand/5 pointer-events-auto absolute z-40 cursor-move rounded-[40px] border border-dashed'
-					style={{ left: x, top: y, width, height }}
+					style={{ left: ex, top: ey, width: ew, height: eh }}
 					onMouseDown={handleMouseDown}
 					onTouchStart={handleTouchStart}>
 					<div className='pointer-events-none h-full w-full' />
