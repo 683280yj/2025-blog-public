@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "交个朋友",
+		"title": "都还不知道科技有限公司",
 		"description": "idky的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "idkyjun"
+		"username": "idky"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -33,11 +33,11 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		},
 		{
-			"id": "ee8ab10f56f7cea5",
-			"url": "/images/art/ee8ab10f56f7cea5.PNG"
+			"id": "a30d384525586683",
+			"url": "/images/art/a30d384525586683.jpg"
 		}
 	],
-	"currentArtImageId": "ee8ab10f56f7cea5",
+	"currentArtImageId": "a30d384525586683",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -87,9 +87,9 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 4,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "",
 		"link": ""
