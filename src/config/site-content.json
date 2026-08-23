@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "交个朋友",
+		"description": "idky的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "idkyjun"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -31,9 +31,13 @@
 		{
 			"id": "1c7b726fe720679b",
 			"url": "/images/art/1c7b726fe720679b.jpg"
+		},
+		{
+			"id": "ee8ab10f56f7cea5",
+			"url": "/images/art/ee8ab10f56f7cea5.PNG"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "ee8ab10f56f7cea5",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -45,23 +49,37 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/683280yj",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
+			"type": "wechat",
+			"value": "/images/social-buttons/caf2eb2380107793.jpg",
 			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "tanayarassmann26@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1787487036859",
+			"type": "tg",
+			"value": "https://t.me/nepenthe2024",
+			"label": "Telegram",
+			"order": 4
+		},
+		{
+			"id": "button-1787487054926",
+			"type": "qq",
+			"value": "2481649848",
+			"label": "",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": false,
