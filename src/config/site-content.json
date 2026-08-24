@@ -50,7 +50,7 @@
 			"id": "github",
 			"type": "github",
 			"value": "https://github.com/683280yj",
-			"label": "Github",
+			"label": "",
 			"order": 3
 		},
 		{
@@ -71,7 +71,7 @@
 			"id": "button-1787487036859",
 			"type": "tg",
 			"value": "https://t.me/nepenthe2024",
-			"label": "Telegram",
+			"label": "",
 			"order": 4
 		},
 		{
@@ -89,7 +89,7 @@
 	"enableCategories": true,
 	"currentHatIndex": 4,
 	"hatFlipped": false,
-	"enableChristmas": true,
+	"enableChristmas": false,
 	"beian": {
 		"text": "",
 		"link": ""
