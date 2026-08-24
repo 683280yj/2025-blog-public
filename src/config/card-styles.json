@@ -37,32 +37,32 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 220,
-		"offsetY": 372,
+		"offsetX": 223,
+		"offsetY": 247,
 		"enabled": true
 	},
 	"socialButtons": {
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -558,
-		"offsetY": 196,
+		"offsetX": 197,
+		"offsetY": 357,
 		"enabled": true
 	},
 	"shareCard": {
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -105,
+		"offsetY": 172,
 		"enabled": true
 	},
 	"articleCard": {
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": -789,
-		"offsetY": -63,
+		"offsetX": -494,
+		"offsetY": 165,
 		"enabled": true
 	},
 	"writeButtons": {
